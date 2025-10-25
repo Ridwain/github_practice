@@ -4,3 +4,5 @@ for i in range(3):
 
 sum = 1+2+3
 print(sum)
+
+print("sabbir paglu")
